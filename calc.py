@@ -1,3 +1,4 @@
+#Perform simple arithmetic encoded in an input string:
 def compute(expression):
     values = expression.split(' ')
     num0 = int(values[0])
